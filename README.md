@@ -20,6 +20,9 @@
 ""Not:""
 
 - CTRL + A : imlecin bulunduğu tüm sayfayı seçer
+  -deneme
+   -deneme1
+    -deneme2
 - CTRL + C : imlecin bulunduğu satırı kopyalar.
 - CTRL + V : kopyalananı yapıştırır.
 - CTRL + X : imlecin bulunduğu satırı keser.(Yapıştırılabilir!)
