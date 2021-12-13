@@ -31,6 +31,7 @@
 - SHIFT + END satır sonuna kadar hepsini seçer.
 - SHIFT + yön tuşları ile belirli aralık seçer .
 - try.dot.net sitesi browser editör...
+- alttaki semböl altgr + ; ile yapılıyor!!!
 ```cs
 
 using System;
