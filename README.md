@@ -22,8 +22,8 @@
 - CTRL + A : imlecin bulunduğu tüm sayfayı seçer.
   - deneme
     - 2.deneme
-      - 3.deneme
-        - 4. deneme
+     - 3.deneme
+      - 4.deneme
 - CTRL + C : imlecin bulunduğu satırı kopyalar.
 - CTRL + V : kopyalananı yapıştırır.
 - CTRL + X : imlecin bulunduğu satırı keser.(Yapıştırılabilir!)
