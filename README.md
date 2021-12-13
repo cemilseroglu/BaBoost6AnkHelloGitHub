@@ -30,3 +30,33 @@
 - SHIFT + HOME satır başına kadar hepsini seçer.
 - SHIFT + END satır sonuna kadar hepsini seçer.
 - SHIFT + yön tuşları ile belirli aralık seçer .
+- try.dot.net sitesi browser editör...
+```cs
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+public class Program
+{
+  public static void Main()
+  {
+    foreach (var i in Fibonacci().Take(20))
+    {
+      Console.WriteLine(i);
+    }
+  }
+
+  private static IEnumerable<int> Fibonacci()
+  {
+    int current = 1, next = 1;
+
+    while (true) 
+    {
+      yield return current;
+      next = current + (current = next);
+    }
+  }
+}
+
+```
