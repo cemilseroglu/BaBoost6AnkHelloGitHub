@@ -20,7 +20,7 @@
 ""Not:""
 
 - CTRL + A : imlecin bulunduğu tüm sayfayı seçer.
-  - deneme
+  - 1.deneme
     - 2.deneme
      - 3.deneme
       - 4.deneme
